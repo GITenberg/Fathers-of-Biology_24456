@@ -1,0 +1,35 @@
+_repo: Fathers-of-Biology_24456
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McRae, Charles
+    gutenberg_agent_id: '26507'
+    url: http://www.gutenberg.org/2009/agents/26507
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2008-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcsh 'Aristotle, 384 BC-322 BC'
+- !lcsh 'Hippocrates'
+- !lcc 'CT'
+- !lcsh 'Vesalius, Andreas, 1514-1564'
+- !lcsh 'Harvey, William, 1578-1657'
+- !lcsh 'Biologists'
+- !lcsh 'Physicians'
+- !lcc 'QH'
+- !lcsh 'Galen'
+- !lcsh 'Biology -- History'
+tableOfContents: Hippocrates -- Aristotle -- Galen -- Vesalius -- Harvey.
+title: Fathers of Biology
+url: http://www.gutenberg.org/ebooks/24456
